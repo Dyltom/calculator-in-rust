@@ -4,8 +4,8 @@ Simple command line calculator built using Rust
 
 # Getting started!
 
-2. In the same termianl, run ```./main``` 
-3. Enjoy that calculator!
+1. In the same termianl, run ```./main``` 
+2. Enjoy that calculator!
 
 # Want to make changes?
 1. Make updates as desired
